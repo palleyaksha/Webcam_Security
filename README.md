@@ -47,14 +47,23 @@ If you don't have Python installed, you can use the provided executable file `We
 
 ## Screenshots
 1. Interface
+   
    ![image](https://github.com/user-attachments/assets/ed327cbe-d9e0-4e25-b3e6-dfb8e7712363)
+   
 2. Disabling cam
+   
    ![image](https://github.com/user-attachments/assets/7399bc51-5c40-41d9-acad-41357490cfbd)
+   
 3. Cam Disabled
+   
    ![image](https://github.com/user-attachments/assets/b9bcfded-84c8-40f1-8934-ae8bfa5cfd49)
+   
 4. Enabling Cam
+   
    ![image](https://github.com/user-attachments/assets/fdb5d95f-7ddb-42af-8353-ff22595513ce)
+  
 5. Cam Enabled
+   
    ![image](https://github.com/user-attachments/assets/f956a147-a5fb-4351-9c4d-0fc01980df52)
 
 ## Contributing
